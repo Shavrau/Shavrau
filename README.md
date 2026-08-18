@@ -9,7 +9,7 @@ Matão, which gave me a solid foundation in software architecture, APIs, and
 databases — knowledge I now apply to building more efficient and scalable 
 data solutions.
 
-**Certifications:** Databricks | Microsoft Azure | Oracle AI Foundations
+**Certifications:**  Microsoft Azure | Oracle AI Foundations
 
 **Background:** full-stack development experience with C#/.NET, React.js, 
 and Firebase.
